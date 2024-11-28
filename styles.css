@@ -131,3 +131,78 @@ fourth section  */
         text-align: end;
         font-weight:bold;
     }
+
+
+
+
+    
+/* 
+    fifth section  */
+
+
+    .fifth{ 
+       
+        background-color: #3882f6;
+      margin-left: 25%; 
+      margin-right:25%; 
+margin-top: 5rem; 
+        display:flex; 
+        justify-content:center;
+
+        align-items: center;
+ padding-top: 0.5rem;
+ padding-bottom: 0.5rem;
+ padding-right: 1rem; 
+ padding-left: 1rem;
+ flex-wrap:wrap;
+ max-width: max-content;
+
+border-radius:1rem
+
+
+    }
+
+    #fifthbutton{ 
+        align-self: center;
+        flex: auto;
+        background-color: #3882f6;
+        border-radius: 8px;
+     border-width:0.4px;
+align-self:center;
+     padding:0.5rem;
+     padding-left:1.5rem;
+     padding-right:1.5rem;
+     color:white;
+     border-color:white; 
+  font-weight: bold;
+    margin-left: 1rem
+    }
+    .fifthleft{ 
+
+     margin-bottom:1rem;
+     flex: auto; 
+     align-self: flex-start;
+    }
+
+    .fifthheader{ 
+        color: #f9faf8;
+         font-weight:bold;
+font-size: 25px;
+    }
+    .fifthtext{ 
+       color:#f9faf8;
+    }
+
+
+/* 
+    footer section */
+
+
+    .footer{ 
+
+        background-color: #1f2937;
+        color: #f9faf8; 
+        text-align: center;
+        margin-top: 4rem; 
+        padding: 2rem;
+    }
